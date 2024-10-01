@@ -6,6 +6,7 @@ A Pollard's kangaroo interval ECDLP solver for SECP256K1 (based on VanitySearch 
 # Feature
 
 <ul>
+  <li>Add Database Features</li>
   <li>Fixed size arithmetic</li>
   <li>Fast Modular Inversion (Delayed Right Shift 62 bits)</li>
   <li>SecpK1 Fast modular multiplication (2 steps folding 512bits to 256bits reduction using 64 bits digits)</li>
